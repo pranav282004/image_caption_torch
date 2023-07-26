@@ -1,4 +1,4 @@
-# image_caption_torch
+# One image holds thousands words (IMAGE CAPTIONING)
 Just a small code testing before live production
 
 
